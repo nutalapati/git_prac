@@ -1,1 +1,2 @@
-this is how the git pull works
+a = 20;
+
